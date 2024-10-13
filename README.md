@@ -5,6 +5,8 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvnema&label=Profile%20views&color=0e75b6&style=flat" alt="parvnema" /> </p>
 
