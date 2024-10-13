@@ -11,7 +11,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvnema&label=Profile%20views&color=0e75b6&style=flat" alt="parvnema" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvnema" alt="parvnema" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"></img>
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+</div>
 - 🌱 I’m currently learning **Backend,Mern,NEXTjs,DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PARVNEMA](https://github.com/PARVNEMA)
