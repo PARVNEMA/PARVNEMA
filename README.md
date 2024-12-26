@@ -1,8 +1,10 @@
-## Hi there 👋
-
-[![MasterHead](https://builtin.com/sites/www.builtin.com/files/full-stack-developer.jpg)](https://github.com/PARVNEMA)
+## 
 <h1 align="center">Hi 👋, I'm Parv Nema</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
+
+
+<img src="https://img.freepik.com/premium-photo/lofi-coding-retreat-coder-embraces-retro-anime-vibes-serenely-lit-workspace_1121478-1071.jpg"  width="1150" height="400" align="center" ></img>
+
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
